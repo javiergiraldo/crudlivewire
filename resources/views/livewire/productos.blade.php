@@ -1,3 +1,9 @@
-<div>
-    {{-- Because she competes with no one, no one can compete with her. --}}
-</div>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Descripcion</th>
+            <th>Cantidad</th>
+        </tr>
+    </thead>
+</table>
