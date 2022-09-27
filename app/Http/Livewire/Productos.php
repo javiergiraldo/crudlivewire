@@ -13,7 +13,7 @@ class Productos extends Component
 
     public function render()
     {
-        
+        $this->productos = Producto::all();
         return view('livewire.productos');
     }
 }
